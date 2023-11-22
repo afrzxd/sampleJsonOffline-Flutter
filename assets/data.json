@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nama": "Item 1",
+      "deskripsi": "Deskripsi dari Item 1."
+    },
+    {
+      "id": 2,
+      "nama": "Item 2",
+      "deskripsi": "Deskripsi dari Item 2."
+    },
+    {
+      "id": 3,
+      "nama": "Item 3",
+      "deskripsi": "Deskripsi dari Item 3."
+    },
+    {
+      "id": 4,
+      "nama": "Item 4",
+      "deskripsi": "Deskripsi dari Item 4."
+    },
+    {
+      "id": 5,
+      "nama": "Item 5",
+      "deskripsi": "Deskripsi dari Item 5."
+    }
+  ]
+}
